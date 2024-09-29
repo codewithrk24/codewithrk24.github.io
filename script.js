@@ -54,8 +54,7 @@ $(document).ready(function () {
     $(".menu-btn i").toggleClass("active");
   });
   $(".carousel").owlCarousel({
-    margin: 20,
-    loop: true,
+    margin: 20, 
     autoplayTimeOut: 2000,
     autoplayHoverPause: true,
     responsive: {
