@@ -224,9 +224,7 @@ section .title::after {
 }
 
 /* about section styling */
-.about .title::after {
-  content: "who am i";
-}
+
 
 .about .about-content .left {
   width: 45%;
@@ -319,10 +317,6 @@ section .title::after {
 }
 
 /* skills section styling */
-.skills .title::after {
-  background: #111;
-  content: "what i know";
-}
 .skills .skills-content .column {
   width: calc(50% - 30px);
 }
